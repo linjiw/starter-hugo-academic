@@ -6,7 +6,7 @@ url_video: ""
 date: 2023-03-01T01:50:34.511Z
 external_link: ""
 url_slides: ""
-title: Example Project
+title: 3D AR Editing
 tags:
   - Deep Learning
 links:

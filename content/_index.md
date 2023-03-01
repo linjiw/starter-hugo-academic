@@ -39,7 +39,7 @@ sections:
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: linji-wang-王琳箕
+      username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: features

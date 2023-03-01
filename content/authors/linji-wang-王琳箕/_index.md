@@ -1,7 +1,7 @@
 ---
 title: Linji Wang 王琳箕
 role: Master student at Carnegie Mellon University
-avatar_filename: avatar
+avatar_filename: img_3408.jpeg
 interests:
   - MachineLearning
   - ComputerVision
